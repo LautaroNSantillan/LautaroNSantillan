@@ -59,7 +59,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="8" />
@@ -87,12 +87,20 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/lautaronsantillan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <p align="center">⚡ About me:<br> Cat person 🐈🐅🐈‍⬛</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LautaroNSantillan/count.svg?"  />
+</div>
 
 ###
 
