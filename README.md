@@ -94,7 +94,7 @@
 
 ###
 
-<p align="center">⚡ About me:<br> Cat person 🐈🐅🐈‍⬛</p>
+<p align="center">⚡ About me:<br> I like cats 🐈🐅🐈‍⬛</p>
 
 ###
 
